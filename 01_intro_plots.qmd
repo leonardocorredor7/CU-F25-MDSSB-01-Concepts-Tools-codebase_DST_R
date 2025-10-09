@@ -50,7 +50,9 @@ flights_sep <- flights %>% # %>% is called the pipe operator
   filter(month== 9) # the filter command selects a subset of observations
 ```
  
+
 Now we're down to 27k.
+
 
 ## 2. Data and Variables
 
