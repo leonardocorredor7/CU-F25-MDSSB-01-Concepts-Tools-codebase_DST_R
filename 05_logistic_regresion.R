@@ -7,7 +7,7 @@
 ####
 #### Recommended Reading: R for Data Science
 #### URL: https://r4ds.had.co.nz/
-#### Chapter 15: Factors
+#### Chapter on Factors
 #### https://www.tmwr.org/models
 #### https://www.tidymodels.org/ (esp.: https://www.tidymodels.org/start/recipes/)
 ####
