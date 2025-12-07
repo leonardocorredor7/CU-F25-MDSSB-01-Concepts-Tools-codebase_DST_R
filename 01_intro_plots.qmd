@@ -24,7 +24,6 @@ Let's load it:
 #install.packages("tidyverse") # package installation
 library(tidyverse) # loading the package
 # If loading the package fails, you may need to install it first
-
 ```
 
 (PS: include = FALSE runs the code, but doesn't show the code or results in the final document. Use this for setup code that you don't want cluttering your report.)
